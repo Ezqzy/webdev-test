@@ -13,5 +13,5 @@ Fast forward about 4 months and i was looking for some games to play, nothing li
 Fast foeward again to a few weeks ago and i wanted to download Stray since everyone was talking about it and so i fired up Steam (was it steam?) and of course, IT'S NOT FUCKING SUPPORTED (no censorng to display my full anger.) and it's not just games too, oh no, you can find unsupported everything, even things that should be supported using Rosseta, aren't.
 ## Conclusion?
 M1 is great, until it isn't. 
-Side note, if you buy an Apple Sillicon mac, expect it to be obsolete in a year or two because the performance increase every new new Apple Sillicon chip brings.
+Side note, if you buy an Apple Sillicon mac, expect it to be obsolete in a year or two because the performance increase every new new Apple Sillicon chip brings. :)
 
