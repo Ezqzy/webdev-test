@@ -1,7 +1,7 @@
 ---
 title: "My experience with iOS and the monstrosity that is the Lightning connector."
 date: 2022-08-08T21:37:13+02:00
-draft: true
+draft: false
 tags: ["rant"]
 categories: ["tech"]
 ---
