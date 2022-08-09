@@ -1,0 +1,48 @@
+baseURL: "ezqzy.xyz"
+languageCode: en-us
+title: ezqzy.
+theme: hugo-PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hi!"
+    Content: Welcome to the website where i post things about hardware/software, my projects and other random stuff! Links (icons) below lead to my various social media accounts.
+  socialIcons:
+    - name: spotify
+      url: "https://open.spotify.com/playlist/5xyqP7SSJieDov6f9bkfpw?si=4a82198b02b74385"
+    - name: twitter
+      url: "https://twitter.com/@ezqzy"
+    - name: github
+      url: "https://github.com/ezqzy"
+
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
