@@ -17,7 +17,7 @@ params:
     - name: "youtube"
       url: "https://youtube.com/channel/UC7GtlU-aYtDAbpJHh4oaZeA"
     - name: "email"
-      url: "narcisstefanovski@ezqzy.xyz"
+      mailto: narcisstefanovski@ezqzy.xyz
     - name: "bitcoin"
       url: "https://www.blockchain.com/btc/address/bc1q4d6hpj33ypzq3x0anz3k8xuksa26mwc37v3m49"
   cover:
