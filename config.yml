@@ -6,7 +6,7 @@ theme: hugo-PaperMod
 params:
   homeInfoParams:
     Title: "Hi!"
-    Content: Welcome to the website where i post things about hardware/software, my projects and other random stuff! Links (icons) below lead to my various social media accounts, you can find my contact info, Youtube channel, Twitter and Bitcoin wallet! My Spotify playlist is also linked if you need something to listen to while programming.
+    Content: Keyboard, Swift developer and IT enthusiast from a small island in Croatia. Links (icons) below lead to my various social media accounts, you can find my contact info, Youtube channel, Twitter and Bitcoin wallet! My Spotify playlist is also linked if you need something to listen to while programming.
   socialIcons:
     - name: spotify
       url: "https://open.spotify.com/playlist/5xyqP7SSJieDov6f9bkfpw?si=4a82198b02b74385"
