@@ -16,4 +16,3 @@ It's absolutely beautiful, And that price too, it's cheap for such a good phone,
 ### Option 2, Z Flip (4)
 No one knows what it is, no one knows what it's price is or how it looks, but goddamn do i want it! 
 ### Option 3, Deal with it (no comment for this option)
-url: "twitter.com/@ezqzy"
