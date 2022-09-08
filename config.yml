@@ -41,10 +41,14 @@ menu:
       name: Categories
       url: /categories/
       weight: 20
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 30
     - identifier: projects
       name: Projects
       url: /projects/
-      weight: 30
+      weight: 40
 
 outputs:
     home:
